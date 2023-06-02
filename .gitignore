@@ -1,0 +1,9 @@
+**/jobInfo.properties
+.JETEmitters/
+.Java/
+.metadata/
+DWH_FRL/code/routines/system/*.*
+DWH_FRL/temp/
+DWH_FRL/sqlPatterns/
+DWH_FRL/talend.project
+IKOS_DATA/
